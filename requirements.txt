@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+openpyxl
+sweetviz
+fpdf
+PyPDF2
+python-docx
+missingno
